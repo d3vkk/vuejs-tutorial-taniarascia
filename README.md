@@ -6,6 +6,7 @@ Vue.js Basics Tutorial from Tania Rascia. With short, useful comments.
 
 [Tania Rascia's Website](https://www.taniarascia.com/getting-started-with-vue/)
 
+Fork or clone this repo
 ```
 git clone https://github.com/d3vkk/vuejs-basics-tutorial-taniarascia.git
 ```
